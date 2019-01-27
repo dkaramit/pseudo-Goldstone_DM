@@ -1,2 +1,4 @@
 # pseudo-Goldstone_DM
-Calculate Feynamn rules for pseudo-Goldstone DM models
+Calculate Feynamn rules for pseudo-Goldstone DM models.
+
+See jupyter notebooks for examples!
