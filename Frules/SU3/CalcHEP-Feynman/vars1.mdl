@@ -1,0 +1,52 @@
+p-Goldstone(Feyn.)
+ Variables 
+ Name   | Value       |>  Comment                                   <|
+EE      |0.31333      |Electromagnetic coupling constant (<->1/128)
+GG      |1.117        |Strong coupling constant (Z point)  (PDG-94)
+SW      |0.474        |sin of the Weinberg angle (PDG-94,"on-shell")
+s12     |0.221        |Parameter of C-K-M matrix (PDG-94)
+s23     |0.04         |Parameter of C-K-M matrix (PDG-94)
+s13     |0.0035       |Parameter of C-K-M matrix (PDG-94)
+MZ      |91.187       |mass of Z boson
+Mm      |0.1057       |mass of muon
+Mt      |1.777        |mass of tau-lepton
+Mc      |1.3          |mass of c-quark
+Ms      |0.2          |mass of s-quark
+Mtop    |170          |mass of t-quark
+wtop    |1.442        |width of t-quark
+Mb      |4.3          |mass of b-quark
+MH      |125          |mass of H-boson
+MS0     |1000         |mass of S0-boson
+MG1     |1000         |mass of G1-boson
+MG2     |1000         |mass of G2-boson
+MG3     |1000         |mass of G3-boson
+MG4     |1000         |mass of G4-boson
+MG5     |1000         |mass of G5-boson
+OG11    |1            |
+OG12    |1            |
+OG13    |1            |
+OG14    |1            |
+OG15    |1            |
+OG21    |1            |
+OG22    |1            |
+OG23    |1            |
+OG24    |1            |
+OG25    |1            |
+OG31    |1            |
+OG32    |1            |
+OG33    |1            |
+OG34    |1            |
+OG35    |1            |
+OG41    |1            |
+OG42    |1            |
+OG43    |1            |
+OG44    |1            |
+OG45    |1            |
+OG51    |1            |
+OG52    |1            |
+OG53    |1            |
+OG54    |1            |
+OG55    |1            |
+lamHPhi |1            |
+mPhi233 |1000         |
+mPhip233|1000         |

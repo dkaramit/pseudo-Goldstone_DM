@@ -1,0 +1,28 @@
+(h, h, h, h)                             |                                        3*I*lamH
+(h, h, rho, rho)                         |                                        I*lamHPhi
+(h, h, s1, s1)                           |                                        I*lamHPhi
+(h, h, s2, s2)                           |                                        I*lamHPhi
+(h, h, chi, chi)                         |                                        I*lamHPhi
+(h, h, phi1, phi1)                       |                                        I*lamHPhi
+(h, h, phi2, phi2)                       |                                        I*lamHPhi
+(rho, rho, rho, rho)                     |                                        -3*I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(rho, rho, s1, s1)                       |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(rho, rho, s2, s2)                       |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(rho, rho, chi, chi)                     |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(rho, rho, phi1, phi1)                   |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(rho, rho, phi2, phi2)                   |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(s1, s1, s1, s1)                         |                                        -3*I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(s1, s1, s2, s2)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(s1, s1, chi, chi)                       |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(s1, s1, phi1, phi1)                     |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(s1, s1, phi2, phi2)                     |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(s2, s2, s2, s2)                         |                                        -3*I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(s2, s2, chi, chi)                       |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(s2, s2, phi1, phi1)                     |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(s2, s2, phi2, phi2)                     |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(chi, chi, chi, chi)                     |                                        -3*I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(chi, chi, phi1, phi1)                   |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(chi, chi, phi2, phi2)                   |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(phi1, phi1, phi1, phi1)                 |                                        -3*I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(phi1, phi1, phi2, phi2)                 |                                        -I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2
+(phi2, phi2, phi2, phi2)                 |                                        -3*I*(lamHPhi*v**2 + 4*mPhi233 + 2*mPhip233)/vPhi**2

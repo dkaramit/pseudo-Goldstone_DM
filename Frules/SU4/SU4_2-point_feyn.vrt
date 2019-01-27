@@ -1,0 +1,31 @@
+(h, h)                                   |                                        lamH*v**2
+(h, rho)                                 |                                        lamHPhi*v*vPhi
+(rho, rho)                               |                                        -lamHPhi*v**2 - 4*mPhi244 - 2*mPhip244
+(s1, s1)                                 |                                        -mPhi211 - 2*mPhi244 + mPhip211 - mPhip244 - conjugate(mPhi211)
+(s1, s2)                                 |                                        -mPhi212 + mPhip212/2 - conjugate(mPhi212) + conjugate(mPhip212)/2
+(s1, s3)                                 |                                        -mPhi213 + mPhip213/2 - conjugate(mPhi213) + conjugate(mPhip213)/2
+(s1, chi)                                |                                        mPhip214 + conjugate(mPhip214)
+(s1, phi1)                               |                                        -I*(-mPhi211 + conjugate(mPhi211))
+(s1, phi2)                               |                                        -I*(-mPhi212 + mPhip212/2 + conjugate(mPhi212) - conjugate(mPhip212)/2)
+(s1, phi3)                               |                                        -I*(-mPhi213 + mPhip213/2 + conjugate(mPhi213) - conjugate(mPhip213)/2)
+(s2, s2)                                 |                                        -mPhi222 - 2*mPhi244 + mPhip222 - mPhip244 - conjugate(mPhi222)
+(s2, s3)                                 |                                        -mPhi223 + mPhip223/2 - conjugate(mPhi223) + conjugate(mPhip223)/2
+(s2, chi)                                |                                        mPhip224 + conjugate(mPhip224)
+(s2, phi1)                               |                                        -I*(-mPhi212 - mPhip212/2 + conjugate(mPhi212) + conjugate(mPhip212)/2)
+(s2, phi2)                               |                                        -I*(-mPhi222 + conjugate(mPhi222))
+(s2, phi3)                               |                                        -I*(-mPhi223 + mPhip223/2 + conjugate(mPhi223) - conjugate(mPhip223)/2)
+(s3, s3)                                 |                                        -mPhi233 - 2*mPhi244 + mPhip233 - mPhip244 - conjugate(mPhi233)
+(s3, chi)                                |                                        mPhip234 + conjugate(mPhip234)
+(s3, phi1)                               |                                        -I*(-mPhi213 - mPhip213/2 + conjugate(mPhi213) + conjugate(mPhip213)/2)
+(s3, phi2)                               |                                        -I*(-mPhi223 - mPhip223/2 + conjugate(mPhi223) + conjugate(mPhip223)/2)
+(s3, phi3)                               |                                        -I*(-mPhi233 + conjugate(mPhi233))
+(chi, chi)                               |                                        -4*mPhi244
+(chi, phi1)                              |                                        -I*(-mPhip214 + conjugate(mPhip214))
+(chi, phi2)                              |                                        -I*(-mPhip224 + conjugate(mPhip224))
+(chi, phi3)                              |                                        -I*(-mPhip234 + conjugate(mPhip234))
+(phi1, phi1)                             |                                        mPhi211 - 2*mPhi244 + mPhip211 - mPhip244 + conjugate(mPhi211)
+(phi1, phi2)                             |                                        mPhi212 + mPhip212/2 + conjugate(mPhi212) + conjugate(mPhip212)/2
+(phi1, phi3)                             |                                        mPhi213 + mPhip213/2 + conjugate(mPhi213) + conjugate(mPhip213)/2
+(phi2, phi2)                             |                                        mPhi222 - 2*mPhi244 + mPhip222 - mPhip244 + conjugate(mPhi222)
+(phi2, phi3)                             |                                        mPhi223 + mPhip223/2 + conjugate(mPhi223) + conjugate(mPhip223)/2
+(phi3, phi3)                             |                                        mPhi233 - 2*mPhi244 + mPhip233 - mPhip244 + conjugate(mPhi233)

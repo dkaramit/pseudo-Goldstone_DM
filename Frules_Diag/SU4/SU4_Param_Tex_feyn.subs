@@ -1,0 +1,76 @@
+lamHPhi   | \lambda_{H \Phi}
+lamH      | \lambda_H
+lamPhi    | \lambda_{\Phi}
+vPhi      | v_{\Phi}
+G_{0}     |G^0
+Gm        |G^-
+Gp        |G^+
+mPhip_{211}^{2}|m_{\Phi_{11}}^{\prime 4 }
+mPhip_{212}^{2}|m_{\Phi_{12}}^{\prime 4 }
+mPhip_{213}^{2}|m_{\Phi_{13}}^{\prime 4 }
+mPhip_{214}^{2}|m_{\Phi_{14}}^{\prime 4 }
+mPhip_{221}^{2}|m_{\Phi_{21}}^{\prime 4 }
+mPhip_{222}^{2}|m_{\Phi_{22}}^{\prime 4 }
+mPhip_{223}^{2}|m_{\Phi_{23}}^{\prime 4 }
+mPhip_{224}^{2}|m_{\Phi_{24}}^{\prime 4 }
+mPhip_{231}^{2}|m_{\Phi_{31}}^{\prime 4 }
+mPhip_{232}^{2}|m_{\Phi_{32}}^{\prime 4 }
+mPhip_{233}^{2}|m_{\Phi_{33}}^{\prime 4 }
+mPhip_{234}^{2}|m_{\Phi_{34}}^{\prime 4 }
+mPhip_{241}^{2}|m_{\Phi_{41}}^{\prime 4 }
+mPhip_{242}^{2}|m_{\Phi_{42}}^{\prime 4 }
+mPhip_{243}^{2}|m_{\Phi_{43}}^{\prime 4 }
+mPhip_{244}^{2}|m_{\Phi_{44}}^{\prime 4 }
+mPhi_{211}^{2}|m_{\Phi_{11}}^{ 4 }
+mPhi_{212}^{2}|m_{\Phi_{12}}^{ 4 }
+mPhi_{213}^{2}|m_{\Phi_{13}}^{ 4 }
+mPhi_{214}^{2}|m_{\Phi_{14}}^{ 4 }
+mPhi_{221}^{2}|m_{\Phi_{21}}^{ 4 }
+mPhi_{222}^{2}|m_{\Phi_{22}}^{ 4 }
+mPhi_{223}^{2}|m_{\Phi_{23}}^{ 4 }
+mPhi_{224}^{2}|m_{\Phi_{24}}^{ 4 }
+mPhi_{231}^{2}|m_{\Phi_{31}}^{ 4 }
+mPhi_{232}^{2}|m_{\Phi_{32}}^{ 4 }
+mPhi_{233}^{2}|m_{\Phi_{33}}^{ 4 }
+mPhi_{234}^{2}|m_{\Phi_{34}}^{ 4 }
+mPhi_{241}^{2}|m_{\Phi_{41}}^{ 4 }
+mPhi_{242}^{2}|m_{\Phi_{42}}^{ 4 }
+mPhi_{243}^{2}|m_{\Phi_{43}}^{ 4 }
+mPhi_{244}^{2}|m_{\Phi_{44}}^{ 4 }
+mPhip_{211}|m_{\Phi_{11}}^{\prime 2 }
+mPhip_{212}|m_{\Phi_{12}}^{\prime 2 }
+mPhip_{213}|m_{\Phi_{13}}^{\prime 2 }
+mPhip_{214}|m_{\Phi_{14}}^{\prime 2 }
+mPhip_{221}|m_{\Phi_{21}}^{\prime 2 }
+mPhip_{222}|m_{\Phi_{22}}^{\prime 2 }
+mPhip_{223}|m_{\Phi_{23}}^{\prime 2 }
+mPhip_{224}|m_{\Phi_{24}}^{\prime 2 }
+mPhip_{231}|m_{\Phi_{31}}^{\prime 2 }
+mPhip_{232}|m_{\Phi_{32}}^{\prime 2 }
+mPhip_{233}|m_{\Phi_{33}}^{\prime 2 }
+mPhip_{234}|m_{\Phi_{34}}^{\prime 2 }
+mPhip_{241}|m_{\Phi_{41}}^{\prime 2 }
+mPhip_{242}|m_{\Phi_{42}}^{\prime 2 }
+mPhip_{243}|m_{\Phi_{43}}^{\prime 2 }
+mPhip_{244}|m_{\Phi_{44}}^{\prime 2 }
+mPhi_{211}|m_{\Phi_{11}}^{ 2 }
+mPhi_{212}|m_{\Phi_{12}}^{ 2 }
+mPhi_{213}|m_{\Phi_{13}}^{ 2 }
+mPhi_{214}|m_{\Phi_{14}}^{ 2 }
+mPhi_{221}|m_{\Phi_{21}}^{ 2 }
+mPhi_{222}|m_{\Phi_{22}}^{ 2 }
+mPhi_{223}|m_{\Phi_{23}}^{ 2 }
+mPhi_{224}|m_{\Phi_{24}}^{ 2 }
+mPhi_{231}|m_{\Phi_{31}}^{ 2 }
+mPhi_{232}|m_{\Phi_{32}}^{ 2 }
+mPhi_{233}|m_{\Phi_{33}}^{ 2 }
+mPhi_{234}|m_{\Phi_{34}}^{ 2 }
+mPhi_{241}|m_{\Phi_{41}}^{ 2 }
+mPhi_{242}|m_{\Phi_{42}}^{ 2 }
+mPhi_{243}|m_{\Phi_{43}}^{ 2 }
+mPhi_{244}|m_{\Phi_{44}}^{ 2 }
+Oh_{      |O_{h
+MH        |M_{H}
+MS_{0}    |M_{S^0}
+S_{0}     |S^0
+th        |t_{h}

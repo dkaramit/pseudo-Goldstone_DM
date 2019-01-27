@@ -1,0 +1,50 @@
+mPhi211
+[True, False, False]
+mPhi212
+[True, False, False]
+mPhi213
+[True, False, False]
+mPhi214
+[True, False, False]
+mPhi222
+[True, False, False]
+mPhi223
+[True, False, False]
+mPhi224
+[True, False, False]
+mPhi233
+[True, False, False]
+mPhi234
+[True, False, False]
+mPhi244
+[True, True, None]
+mPhip211
+[True, True, None]
+mPhip212
+[True, False, False]
+mPhip213
+[True, False, False]
+mPhip214
+[True, False, False]
+mPhip222
+[True, True, None]
+mPhip223
+[True, False, False]
+mPhip224
+[True, False, False]
+mPhip233
+[True, True, None]
+mPhip234
+[True, False, False]
+mPhip244
+[True, True, None]
+v
+[True, True, True]
+vPhi
+[True, True, True]
+lamH
+[True, True, True]
+lamHPhi
+[True, True, None]
+lamPhi
+[True, True, True]

@@ -1,0 +1,5 @@
+th   |(MH**2 - lamH*v**2)/(lamHPhi*v*vPhi)
+Oh11 |1/sqrt(th**2 + 1)
+Oh12 |th/sqrt(th**2 + 1)
+lamH |(MH**2 + MS0**2 + lamHPhi*v**2 + 4*mPhi222 + 2*mPhip222)/v**2
+vPhi |sqrt((MH**2 - MS0**2)**2 - (MH**2 + MS0**2 + 2*lamHPhi*v**2 + 8*mPhi222 + 4*mPhip222)**2)/(2*v*Abs(lamHPhi))

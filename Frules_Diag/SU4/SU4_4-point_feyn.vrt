@@ -1,0 +1,77 @@
+(H, H, H, H)                             |                                        -3*I*(-Oh11**2*vPhi**2*(Oh11**2*lamH + 2*Oh12**2*lamHPhi) + Oh12**4*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244))/vPhi**2
+(H, H, H, S0)                            |                                        -3*I*Oh11*Oh12*(Oh12**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244) + vPhi**2*(Oh11**2*lamH - Oh11**2*lamHPhi + Oh12**2*lamHPhi))/vPhi**2
+(H, H, S0, S0)                           |                                        -I*(3*Oh11**2*Oh12**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244) + vPhi**2*(-Oh11**4*lamHPhi - 3*Oh11**2*Oh12**2*lamH + 4*Oh11**2*Oh12**2*lamHPhi - Oh12**4*lamHPhi))/vPhi**2
+(H, H, G1, G1)                           |                                        -I*(-Oh11**2*lamHPhi*vPhi**2 + Oh12**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244))/vPhi**2
+(H, H, G2, G2)                           |                                        -I*(-Oh11**2*lamHPhi*vPhi**2 + Oh12**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244))/vPhi**2
+(H, H, G3, G3)                           |                                        -I*(-Oh11**2*lamHPhi*vPhi**2 + Oh12**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244))/vPhi**2
+(H, H, G4, G4)                           |                                        -I*(-Oh11**2*lamHPhi*vPhi**2 + Oh12**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244))/vPhi**2
+(H, H, G5, G5)                           |                                        -I*(-Oh11**2*lamHPhi*vPhi**2 + Oh12**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244))/vPhi**2
+(H, H, G6, G6)                           |                                        -I*(-Oh11**2*lamHPhi*vPhi**2 + Oh12**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244))/vPhi**2
+(H, H, G7, G7)                           |                                        -I*(-Oh11**2*lamHPhi*vPhi**2 + Oh12**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244))/vPhi**2
+(H, H, G0, G0)                           |                                        -4*I*(-Oh11**2*lamH/4 - Oh12**2*lamHPhi/4)
+(H, H, Gp, Gm)                           |                                        -2*I*(-Oh11**2*lamH/2 - Oh12**2*lamHPhi/2)
+(H, S0, S0, S0)                          |                                        -3*I*Oh11*Oh12*(Oh11**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244) + vPhi**2*(Oh11**2*lamHPhi + Oh12**2*lamH - Oh12**2*lamHPhi))/vPhi**2
+(H, S0, G1, G1)                          |                                        -I*Oh11*Oh12*(lamHPhi*v**2 + lamHPhi*vPhi**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(H, S0, G2, G2)                          |                                        -I*Oh11*Oh12*(lamHPhi*v**2 + lamHPhi*vPhi**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(H, S0, G3, G3)                          |                                        -I*Oh11*Oh12*(lamHPhi*v**2 + lamHPhi*vPhi**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(H, S0, G4, G4)                          |                                        -I*Oh11*Oh12*(lamHPhi*v**2 + lamHPhi*vPhi**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(H, S0, G5, G5)                          |                                        -I*Oh11*Oh12*(lamHPhi*v**2 + lamHPhi*vPhi**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(H, S0, G6, G6)                          |                                        -I*Oh11*Oh12*(lamHPhi*v**2 + lamHPhi*vPhi**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(H, S0, G7, G7)                          |                                        -I*Oh11*Oh12*(lamHPhi*v**2 + lamHPhi*vPhi**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(H, S0, G0, G0)                          |                                        -I*Oh11*Oh12*(lamH - lamHPhi)
+(H, S0, Gp, Gm)                          |                                        -I*Oh11*Oh12*(lamH - lamHPhi)
+(S0, S0, S0, S0)                         |                                        -3*I*(Oh11**4*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244) - Oh12**2*vPhi**2*(2*Oh11**2*lamHPhi + Oh12**2*lamH))/vPhi**2
+(S0, S0, G1, G1)                         |                                        -I*(Oh11**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244) - Oh12**2*lamHPhi*vPhi**2)/vPhi**2
+(S0, S0, G2, G2)                         |                                        -I*(Oh11**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244) - Oh12**2*lamHPhi*vPhi**2)/vPhi**2
+(S0, S0, G3, G3)                         |                                        -I*(Oh11**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244) - Oh12**2*lamHPhi*vPhi**2)/vPhi**2
+(S0, S0, G4, G4)                         |                                        -I*(Oh11**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244) - Oh12**2*lamHPhi*vPhi**2)/vPhi**2
+(S0, S0, G5, G5)                         |                                        -I*(Oh11**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244) - Oh12**2*lamHPhi*vPhi**2)/vPhi**2
+(S0, S0, G6, G6)                         |                                        -I*(Oh11**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244) - Oh12**2*lamHPhi*vPhi**2)/vPhi**2
+(S0, S0, G7, G7)                         |                                        -I*(Oh11**2*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244) - Oh12**2*lamHPhi*vPhi**2)/vPhi**2
+(S0, S0, G0, G0)                         |                                        -4*I*(-Oh11**2*lamHPhi/4 - Oh12**2*lamH/4)
+(S0, S0, Gp, Gm)                         |                                        -2*I*(-Oh11**2*lamHPhi/2 - Oh12**2*lamH/2)
+(G1, G1, G1, G1)                         |                                        -3*I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G1, G1, G2, G2)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G1, G1, G3, G3)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G1, G1, G4, G4)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G1, G1, G5, G5)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G1, G1, G6, G6)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G1, G1, G7, G7)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G1, G1, G0, G0)                         |                                        I*lamHPhi
+(G1, G1, Gp, Gm)                         |                                        I*lamHPhi
+(G2, G2, G2, G2)                         |                                        -3*I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G2, G2, G3, G3)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G2, G2, G4, G4)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G2, G2, G5, G5)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G2, G2, G6, G6)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G2, G2, G7, G7)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G2, G2, G0, G0)                         |                                        I*lamHPhi
+(G2, G2, Gp, Gm)                         |                                        I*lamHPhi
+(G3, G3, G3, G3)                         |                                        -3*I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G3, G3, G4, G4)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G3, G3, G5, G5)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G3, G3, G6, G6)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G3, G3, G7, G7)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G3, G3, G0, G0)                         |                                        I*lamHPhi
+(G3, G3, Gp, Gm)                         |                                        I*lamHPhi
+(G4, G4, G4, G4)                         |                                        -3*I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G4, G4, G5, G5)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G4, G4, G6, G6)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G4, G4, G7, G7)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G4, G4, G0, G0)                         |                                        I*lamHPhi
+(G4, G4, Gp, Gm)                         |                                        I*lamHPhi
+(G5, G5, G5, G5)                         |                                        -3*I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G5, G5, G6, G6)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G5, G5, G7, G7)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G5, G5, G0, G0)                         |                                        I*lamHPhi
+(G5, G5, Gp, Gm)                         |                                        I*lamHPhi
+(G6, G6, G6, G6)                         |                                        -3*I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G6, G6, G7, G7)                         |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G6, G6, G0, G0)                         |                                        I*lamHPhi
+(G6, G6, Gp, Gm)                         |                                        I*lamHPhi
+(G7, G7, G7, G7)                         |                                        -3*I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi**2
+(G7, G7, G0, G0)                         |                                        I*lamHPhi
+(G7, G7, Gp, Gm)                         |                                        I*lamHPhi
+(G0, G0, G0, G0)                         |                                        3*I*lamH
+(G0, G0, Gp, Gm)                         |                                        I*lamH
+(Gp, Gp, Gm, Gm)                         |                                        2*I*lamH

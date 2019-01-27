@@ -1,0 +1,26 @@
+p-Goldstone(Feyn.)
+ Particles 
+Full   Name     | P | aP|  number  |spin2|mass|width|color|aux| LaTeX(A)       |  LateX(A+)         |
+photon          |A  |A  |22        |2    |0   |0    |1    |G  |A               |A                   |
+Z boson         |Z  |Z  |23        |2    |MZ  |!wZ  |1    |G  |Z               |Z                   |
+gluon           |G  |G  |21        |2    |0   |0    |8    |G  |G               |G                   |
+W boson         |W+ |W- |24        |2    |MW  |!wW  |1    |G  |W^+             |W^-                 |
+neutrino        |n1 |N1 |12        |1    |0   |0    |1    |L  |\nu^e           |\bar{\nu}^e         |
+electron        |e1 |E1 |11        |1    |0   |0    |1    |   |e               |\bar{e}             |
+mu-neutrino     |n2 |N2 |14        |1    |0   |0    |1    |L  |\nu^\mu         |\bar{\nu}^\mu       |
+muon            |e2 |E2 |13        |1    |Mm  |0    |1    |   |\mu             |\bar{\mu}           |
+tau-neutrino    |n3 |N3 |16        |1    |0   |0    |1    |L  |\nu^\tau        |\bar{\nu}^\tau      |
+tau-lepton      |e3 |E3 |15        |1    |Mt  |0    |1    |   |\tau            |\bar{\tau}          |
+u-quark         |u  |U  |2         |1    |0   |0    |3    |   |u               |\bar{u}             |
+d-quark         |d  |D  |1         |1    |0   |0    |3    |   |d               |\bar{d}             |
+c-quark         |c  |C  |4         |1    |Mc  |0    |3    |   |c               |\bar{c}             |
+s-quark         |s  |S  |3         |1    |Ms  |0    |3    |   |s               |\bar{s}             |
+t-quark         |t  |T  |6         |1    |Mtop|wtop |3    |   |t               |\bar{t}             |
+b-quark         |b  |B  |5         |1    |Mb  |0    |3    |   |b               |\bar{b}             |
+H-boson         |H  |H  |35        |0    |MH  |!wH  |1    |   |H               |H                   |
+S0-boson        |S0 |S0 |10000     |0    |MS0 |!wS0 |1    |   |S0              |S0                  |
+G1-boson        |G1 |G1 |10001     |0    |MG1 |!wG1 |1    |   |G1              |G1                  |
+G2-boson        |G2 |G2 |10002     |0    |MG2 |!wG2 |1    |   |G2              |G2                  |
+G3-boson        |G3 |G3 |10003     |0    |MG3 |!wG3 |1    |   |G3              |G3                  |
+G4-boson        |G4 |G4 |10004     |0    |MG4 |!wG4 |1    |   |G4              |G4                  |
+G5-boson        |G5 |G5 |10005     |0    |MG5 |!wG5 |1    |   |G5              |G5                  |

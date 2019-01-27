@@ -1,0 +1,22 @@
+(h, h, h)                                |                                        3*I*lamH*v
+(h, h, rho)                              |                                        I*lamHPhi*vPhi
+(h, rho, rho)                            |                                        I*lamHPhi*v
+(h, s1, s1)                              |                                        I*lamHPhi*v
+(h, s2, s2)                              |                                        I*lamHPhi*v
+(h, s3, s3)                              |                                        I*lamHPhi*v
+(h, chi, chi)                            |                                        I*lamHPhi*v
+(h, phi1, phi1)                          |                                        I*lamHPhi*v
+(h, phi2, phi2)                          |                                        I*lamHPhi*v
+(h, phi3, phi3)                          |                                        I*lamHPhi*v
+(h, G0, G0)                              |                                        I*lamH*v
+(h, Gp, Gm)                              |                                        I*lamH*v
+(rho, rho, rho)                          |                                        -3*I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi
+(rho, s1, s1)                            |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi
+(rho, s2, s2)                            |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi
+(rho, s3, s3)                            |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi
+(rho, chi, chi)                          |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi
+(rho, phi1, phi1)                        |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi
+(rho, phi2, phi2)                        |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi
+(rho, phi3, phi3)                        |                                        -I*(lamHPhi*v**2 + 4*mPhi244 + 2*mPhip244)/vPhi
+(rho, G0, G0)                            |                                        I*lamHPhi*vPhi
+(rho, Gp, Gm)                            |                                        I*lamHPhi*vPhi

@@ -1,0 +1,14 @@
+(H, H, H)                                |                                        -3*I*(-Oh11*vPhi*(Oh11**2*lamH*v + Oh11*Oh12*lamHPhi*vPhi + Oh12**2*lamHPhi*v) + Oh12**3*(lamHPhi*v**2 + 4*mPhi222 + 2*mPhip222))/vPhi
+(H, H, S0)                               |                                        -I*(3*Oh11*Oh12**2*(lamHPhi*v**2 + 4*mPhi222 + 2*mPhip222) + vPhi*(-Oh11**3*lamHPhi*vPhi + 3*Oh11**2*Oh12*lamH*v - 2*Oh11**2*Oh12*lamHPhi*v + 2*Oh11*Oh12**2*lamHPhi*vPhi + Oh12**3*lamHPhi*v))/vPhi
+(H, S0, S0)                              |                                        -I*(3*Oh11**2*Oh12*(lamHPhi*v**2 + 4*mPhi222 + 2*mPhip222) + vPhi*(-Oh11**3*lamHPhi*v + 2*Oh11**2*Oh12*lamHPhi*vPhi - 3*Oh11*Oh12**2*lamH*v + 2*Oh11*Oh12**2*lamHPhi*v - Oh12**3*lamHPhi*vPhi))/vPhi
+(H, G1, G1)                              |                                        -I*(-Oh11*lamHPhi*v*vPhi + Oh12*(lamHPhi*v**2 + 4*mPhi222 + 2*mPhip222))/vPhi
+(H, G2, G2)                              |                                        -I*(-Oh11*lamHPhi*v*vPhi + Oh12*(lamHPhi*v**2 + 4*mPhi222 + 2*mPhip222))/vPhi
+(H, G3, G3)                              |                                        -I*(-Oh11*lamHPhi*v*vPhi + Oh12*(lamHPhi*v**2 + 4*mPhi222 + 2*mPhip222))/vPhi
+(H, G0, G0)                              |                                        -2*I*(-Oh11*lamH*v/2 - Oh12*lamHPhi*vPhi/2)
+(H, Gp, Gm)                              |                                        -I*(-Oh11*lamH*v - Oh12*lamHPhi*vPhi)
+(S0, S0, S0)                             |                                        -3*I*(Oh11**3*(lamHPhi*v**2 + 4*mPhi222 + 2*mPhip222) + Oh12*vPhi*(Oh11**2*lamHPhi*v - Oh11*Oh12*lamHPhi*vPhi + Oh12**2*lamH*v))/vPhi
+(S0, G1, G1)                             |                                        -I*(Oh11*(lamHPhi*v**2 + 4*mPhi222 + 2*mPhip222) + Oh12*lamHPhi*v*vPhi)/vPhi
+(S0, G2, G2)                             |                                        -I*(Oh11*(lamHPhi*v**2 + 4*mPhi222 + 2*mPhip222) + Oh12*lamHPhi*v*vPhi)/vPhi
+(S0, G3, G3)                             |                                        -I*(Oh11*(lamHPhi*v**2 + 4*mPhi222 + 2*mPhip222) + Oh12*lamHPhi*v*vPhi)/vPhi
+(S0, G0, G0)                             |                                        -2*I*(-Oh11*lamHPhi*vPhi/2 + Oh12*lamH*v/2)
+(S0, Gp, Gm)                             |                                        -I*(-Oh11*lamHPhi*vPhi + Oh12*lamH*v)
