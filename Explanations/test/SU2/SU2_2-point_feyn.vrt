@@ -1,9 +1,0 @@
-(h, h)                                   |                                        lamH*v**2
-(h, rho)                                 |                                        lamHPhi*v*vPhi
-(rho, rho)                               |                                        -lamHPhi*v**2 - 4*mPhi222 - 2*mPhip222
-(s1, s1)                                 |                                        -mPhi211 - 2*mPhi222 + mPhip211 - mPhip222 - conjugate(mPhi211)
-(s1, chi)                                |                                        mPhip212 + conjugate(mPhip212)
-(s1, phi1)                               |                                        -I*(-mPhi211 + conjugate(mPhi211))
-(chi, chi)                               |                                        -4*mPhi222
-(chi, phi1)                              |                                        -I*(-mPhip212 + conjugate(mPhip212))
-(phi1, phi1)                             |                                        mPhi211 - 2*mPhi222 + mPhip211 - mPhip222 + conjugate(mPhi211)
