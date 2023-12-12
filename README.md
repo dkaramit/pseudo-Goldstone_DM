@@ -1,5 +1,5 @@
 # pseudo-Goldstone_DM
-Calculate Feynamn rules for pseudo-Goldstone DM models, for SU(N) case of [Phys. Rev. D 99, 095036], [arXiv:1901.09751].
+Calculate Feynman rules for pseudo-Goldstone DM models, for SU(N) case of [Phys. Rev. D 99, 095036], [arXiv:1901.09751]. The module also makes several self-consistency checks to make sure that you have implemented everything correctly.
 
 See jupyter notebooks (How_it_works.ipynb and PseudoGoldstone-Explain.ipynb) for how it works and how to use.
 
